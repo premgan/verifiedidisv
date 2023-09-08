@@ -17,3 +17,5 @@ This README is intended to provide guidance to Verified ID ISVs and in general I
 7. Join the ISV success program - https://www.microsoft.com/en-us/isv/success-application. Some other programs to consider based on your needs:
 
 ![ISV programs](image.png)
+
+8. If you have an assigned Partner Manager from Microsoft, it is best to keep them in the loop so they will serve as your adavocate internally for feedback and provide you updates on new offers. 
