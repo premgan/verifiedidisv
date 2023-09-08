@@ -18,4 +18,4 @@ This README is intended to provide guidance to Verified ID ISVs and in general I
 
 ![ISV programs](image.png)
 
-8. If you have an assigned Partner Manager from Microsoft, it is best to keep them in the loop so they will serve as your adavocate internally for feedback and provide you updates on new offers. 
+8. If you have an assigned Partner Manager from Microsoft, it is best to keep them in the loop so they will serve as your adavocate internally for feedback and provide you updates on new offers. If there is no partner manager, strive to sign up for a preview and stay in touch with a Product manager in Verified ID. Worst case you can engage via feedback hub here: https://feedbackportal.microsoft.com/feedback/ and since currently there is none for Verified ID, you may start with https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?advanced=false&allow_punctuation=false&filter=location&location=forum-board:SecurityandCompliance&q=Verified 
